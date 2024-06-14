@@ -1,0 +1,1 @@
+Hocam makefile olmadan çalıştı ancak makefile kullanınca stack hatası yiyorum düzeltemedim kusura bakmayın.

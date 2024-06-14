@@ -1,0 +1,15 @@
+Electronics Shop Inventory Report
+Generated on: 25/03/2024
+
+---------------------------------------
+| No. | Category | Name | Price | Quantity |
+---------------------------------------
+| 1 | Laptop | Berkay | $15.0 | 15 |
+| 3 | Television | 10 | $155.0 | 15 |
+---------------------------------------
+
+Summary:
+- Total number of devices: 2
+- Total Inventory value: 2550.0
+
+End of Report

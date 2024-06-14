@@ -1,0 +1,5 @@
+sID,pID,branch,current_stock
+1,3,Istanbul,100
+2,5,Kars,552
+3,4,Ordu,52
+4,5,Bursa,425

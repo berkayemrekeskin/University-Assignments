@@ -1,0 +1,6 @@
+Ahmet, 12456, 14
+Mehmet, 125667, 1
+Tura, 1, 2
+memo, 1235, 12
+memati, 12378, 12
+

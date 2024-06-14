@@ -1,0 +1,1 @@
+I didn't use util.c and util.h after i saw that there will be only one c file so i wrote my functions to main.c. Photos are taken before i changed but they are the same functions.

@@ -1,0 +1,18 @@
+ft_regular /time time Tue Jan  9 22:27:54 2024 480
+#include <iostream>
+#include <chrono>
+
+int main() {
+    // Get the current time point
+    auto currentTimePoint = std::chrono::system_clock::now();
+
+    // Convert the time point to a time_t (typically representing seconds since epoch)
+    std::time_t currentTime = std::chrono::system_clock::to_time_t(currentTimePoint);
+
+    // Print the current time
+    std::cout << "Current time: " << std::ctime(&currentTime);
+
+    return 0;
+}
+$
+ft_directory /dir1 dir1 Tue Jan  9 22:27:59 2024 
